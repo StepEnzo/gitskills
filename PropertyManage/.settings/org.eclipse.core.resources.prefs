@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/test.jsp=UTF-8
+encoding//src/AdminServlet/AdminLogInServlet.java=UTF-8
+encoding//src/AdminServlet/ChangeUserInformation.java=UTF-8
+encoding//src/AdminServlet/FindProperty.java=UTF-8
+encoding//src/AdminServlet/UserAddServlet.java=UTF-8
+encoding//src/AdminServlet/addProperty.java=UTF-8
+encoding//src/AdminServlet/deleteServlet.java=UTF-8
+encoding//src/AdminServlet/guiHuan.java=UTF-8
+encoding//src/UserServlet/LogInServlet.java=UTF-8
+encoding//src/UserServlet/UserAppliedPropertyServlet.java=UTF-8
+encoding//src/UserServlet/UserHistoryRecordServlet.java=UTF-8
+encoding//src/UserServlet/UserLookPropertyServlet.java=UTF-8
+encoding//src/UserServlet/UserPropertyInfoServlet.java=UTF-8
+encoding//src/UserServlet/UserRequisitionServlet.java=UTF-8
+encoding//src/UserServlet/UserapplyServlet.java=UTF-8
